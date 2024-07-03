@@ -18,3 +18,8 @@ Console.WriteLine (product1);
 Console.WriteLine (product2);
 Console.WriteLine (product3);
 
+d1 = 6;
+double quotient1 = i1 / d1;
+Console.WriteLine (quotient1);
+
+
